@@ -1,0 +1,4 @@
+name: vault-protocol
+
+plugins:
+  - name: vyper
